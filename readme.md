@@ -28,3 +28,8 @@
    * Control de versiones con Git. 
    * Uso de herramientas para la depuración y pruebas
   
+# Metodología 
+  El curso se desarrolla mediante clases teóricas y prácticas, con proyectos intermodulares
+
+  otra modificación
+  
